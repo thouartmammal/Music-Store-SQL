@@ -8,10 +8,10 @@ Key highlights:
 
 - **Database Design & Integrity:** Enforced **primary keys (PK) and foreign keys (FK)** across all tables to ensure data consistency.  
 - **Advanced SQL Techniques:** Utilized **joins, window functions (`LAG`, `RANK`), aggregations, and conditional statements** for detailed analysis.  
-- **Customer Analytics:** Conducted **churn analysis, customer lifetime value (CLV) calculation**, and identified each customer's **top 3 artists**.  
+- **Customer Analytics:** Conducted **churn analysis, CLV calculation**, and identified each customer's **top 3 artists**.  
 - **Revenue & Trend Analysis:** Calculated **monthly and yearly revenue trends**, genre popularity, and revenue by artist.  
 - **Behavioral Insights:** Identified **genre-loyal customers** to support targeted marketing and upselling strategies.  
-- **Reusable Views:** Created **views** like `ann_frequency` to **simplify complex queries**, track customer behavior trends, and enable efficient reporting.
+- **Reusable Views:** Created **views** like `ann_frequency` to **simplify complex queries** and track customer behavior trends.
 
 The goal is to demonstrate how **SQL and data analysis skills** can extract actionable insights for **customer retention, sales optimization, and business strategy**.
 
