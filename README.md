@@ -2,14 +2,18 @@
 
 ## Overview
 
-This project contains **SQL scripts and analysis** for a music store database. It includes:
+This project demonstrates **SQL-based data analysis** on a music store database, emphasizing **relational database management, advanced query techniques, and business intelligence insights**. 
 
-- **Data integrity checks**: Primary keys (PK) and foreign keys (FK) for all tables.  
-- **Customer analytics**: Churn analysis, customer lifetime value (CLV), and top artists.  
-- **Revenue insights**: Monthly revenue trends, genre popularity, and revenue by artist.  
-- **Genre loyalty analysis**: Identifying customers who buy only a single genre.  
+Key highlights:
 
-The goal is to extract actionable insights for business decisions, including **customer retention**, **marketing strategies**, and **sales forecasting**.
+- **Database Design & Integrity:** Enforced **primary keys (PK) and foreign keys (FK)** across all tables to ensure data consistency.  
+- **Advanced SQL Techniques:** Utilized **joins, window functions (`LAG`, `RANK`), aggregations, and conditional statements** for detailed analysis.  
+- **Customer Analytics:** Conducted **churn analysis, customer lifetime value (CLV) calculation**, and identified each customer's **top 3 artists**.  
+- **Revenue & Trend Analysis:** Calculated **monthly and yearly revenue trends**, genre popularity, and revenue by artist.  
+- **Behavioral Insights:** Identified **genre-loyal customers** to support targeted marketing and upselling strategies.  
+- **Reusable Views:** Created **views** like `ann_frequency` to **simplify complex queries**, track customer behavior trends, and enable efficient reporting.
+
+The goal is to demonstrate how **SQL and data analysis skills** can extract actionable insights for **customer retention, sales optimization, and business strategy**.
 
 ---
 
