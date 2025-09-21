@@ -19,7 +19,11 @@ The goal is to demonstrate how **SQL and data analysis skills** can extract acti
 
 ## Project Structure
 Music-Store-SQL/
+
 ├─ music_store.sql # Main SQL file with table creation, PKs/FKs, and analysis queries
+
+├─ schema_diagram.png # A picture of the database schema
+
 ├─ README.md # This file
 
 
